@@ -13,5 +13,14 @@ hachoir
 Pillow
 humanize
 aiofiles
-dnspython 
+dnspython
 pynewtonmath
+openai
+jinja2
+python-dotenv<=0.20.0
+apscheduler
+pyshorteners
+psutil
+pyromod
+colorama
+
